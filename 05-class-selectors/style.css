@@ -1,0 +1,17 @@
+.base-box {
+    border-width: 5px;
+    border-style: solid;
+    border-color: green;
+}
+
+.important {
+    font-weight: bold;
+}
+
+.editor-note {
+    color: purple;
+}
+
+.warning {
+    background-color: red;
+}

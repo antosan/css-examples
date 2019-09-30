@@ -1,0 +1,11 @@
+li[lang="en-GB"] {
+    color: blue;
+}
+
+li[lang="de"] {
+    color: green;
+}
+
+li[lang="es"] {
+    color: red;
+}

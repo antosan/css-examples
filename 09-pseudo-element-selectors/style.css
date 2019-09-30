@@ -1,0 +1,8 @@
+p::first-line {
+    text-transform: uppercase;
+}
+
+p::first-letter {
+    font-size: 100px;
+    background: red;
+}
